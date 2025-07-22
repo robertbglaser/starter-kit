@@ -29,6 +29,13 @@ export default {
     Link: {
       href: '/',
       text: 'Go Back'
+    },
+    '/grid': {
+    H3: 'This is not from the Symbols starter-kit',
+    P: 'Lorem ipsum dolor sit amet',
+    Link: {
+      href: '/',
+      text: 'Go Back'
     }
   }
 }

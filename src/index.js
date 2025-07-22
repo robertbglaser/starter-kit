@@ -20,7 +20,9 @@ create({
 
   content: {},
 
-  Footer: { text: 'Footer' }
+  grid:{},
+
+  Footer: { text: 'Footer XXXX' }
 }, {
   designSystem,
   components,

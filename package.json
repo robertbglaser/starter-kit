@@ -22,7 +22,7 @@
     "eslint": "^9.23.0",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.31.0",
-    "parcel": "^2.13.3",
+    "parcel": "^2.15.4",
     "standard": "^17.1.2"
   },
   "gitHead": "7e273889b26550829ccbbb5312f674297bced410"

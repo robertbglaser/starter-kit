@@ -54,3 +54,11 @@ export const Footer = {
     order: 9
   }
 }
+
+export const Grid = {
+  props: {
+    padding: 'Z B',
+    order: 9,
+    color: 'purple',
+  }
+}

@@ -10,7 +10,8 @@ const COLOR = {
   transparent: 'transparent',
   black: 'black',
   white: 'white',
-  orange: '#E98232'
+  orange: '#E98232',
+  green: 'green',
 }
 
 /**
@@ -36,6 +37,9 @@ const THEME = {
     '@midnight': {
       background: '#112233',
       color: 'white'
+    },
+    '@border':{
+      border:'green'
     }
   }
 }

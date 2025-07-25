@@ -13,7 +13,8 @@ create({
     theme: 'document',
     flow: 'column',
     height: '100vh',
-    align: 'center space-between'
+    align: 'center space-between',
+    border:'3 green',
   },
 
   Header: {},
@@ -22,7 +23,7 @@ create({
 
   grid:{},
 
-  Footer: { text: 'Footer XXXX' }
+  Footer: { text: 'Footer' }
 }, {
   designSystem,
   components,

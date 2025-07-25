@@ -31,11 +31,12 @@ export default {
       text: 'Go Back'
     },
     '/grid': {
-    H3: 'This is not from the Symbols starter-kit',
+    H3: 'This is not from the Symbols starter-kit, this is the example',
     P: 'Lorem ipsum dolor sit amet',
     Link: {
       href: '/',
       text: 'Go Back'
     }
   }
+}
 }
